@@ -1,4 +1,4 @@
-<h2 align="center">👋 Welcome! I'm Siyam Ahmed</h2>
+<h2 align="center">👋 Welcome! I'm Mohammad Ishtiak</h2>
 
 <h3 align="center">A Passionate MERN Stack Developer from Bangladesh</h3>
 
@@ -17,12 +17,12 @@
 </div>
 
 <p align="center">
-  <img  src="https://i.ibb.co.com/t4q6d05/Blue-And-Green-Professional-Technology-Linked-In-Banner.png" alt="Banner Image" height="100%" />
+  <img  src="https://res.cloudinary.com/dpfjg8tdc/image/upload/v1744614549/Mohammad_Ishtiak_jptldy.png" alt="Banner Image" height="100%" />
 </p>
 ---
 <br clear="both">
 
--[My Resume](https://drive.google.com/file/d/12oeOynVFVEUTsXyvOJ2t6AnIpRqzW3ID/view?usp=sharing)
+-[My Resume](https://drive.google.com/file/d/160NhPERRAolrkBvPTpfXfkWQpIGBr2KB/view?usp=drive_link)
 
 --
 
@@ -31,7 +31,7 @@
 - 🔭 I’m currently working on *Full-Stack Web Development*  
 - 🌱 I’m currently learning *DevOps & Advanced Backend Technologies*  
 - 💬 Ask me about *React, Node.js, Express.js, MongoDB, and TailwindCSS Or Etc*  
-- 📫 How to reach me: *siyamahmed3827@gmail.com*  
+- 📫 How to reach me: *mrrafi5869@gmail.com*  
 - ⚡ Fun fact: *I love to explore new technologies and contribute to open-source projects!*
 
 --
@@ -48,23 +48,10 @@
 ## 🚀 Technologies I Use
 - *Frontend:* React, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript, Redux, Firebase, JWT
 - *Backend:* Node.js, Express, MongoDB, Mongoose, MySQL, PostgreSQL,Prisma, 
-- *Other Tools:* Git, GitHub, Docker, AWS, Firebase, Stripe, framer-motion
-- *Languages:* JavaScript, TypeScript, Python
+- *Other Tools:* Git, GitHub, npm, Firebase, Stripe, Vercel, Netlify
+- *Languages:* JavaScript, TypeScript
   
 --
-
-## 🎓 Education
-
-- *Diploma in Engineering (Computer Science & Engineering)*  
-  *Bhola Govt Polytechnic Institute*  
-  2021 - 2025  
-  Pursuing a diploma in CSE, focusing on:
-  - Core programming languages (C, Java, Python)
-  - Database management systems
-  - Networking and cloud technologies
-
---
-
 
 ### 🎯 My Goals:
 - Write high-quality code and deliver complete projects.  
@@ -201,25 +188,27 @@
         <li>📌 Category-wise book display and user-specific controls.</li>
       </ul>
       <p><strong>Technologies:</strong> Next.js, Tailwind CSS, React.js, Firebase, MongoDB, Mongoose, JWT</p>
-      <a href="https://github.com/dev-siyamahmed/Book-Exchange-Front-End-" target="_blank">GitHub Repo</a> | 
+      <a href="https://github.com/Ishtiak-codes/book-exchange-front-end.git" target="_blank">GitHub Repo</a> | 
       <a href="https://boibinimoy.netlify.app" target="_blank">Live Demo</a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://i.ibb.co.com/7RPxkjC/munshi.png" height="100%"  width="100%" alt="Munshi Wholesale" />
-      <h3>🛒 Munshi Wholesale</h3>
+      <img src="https://res.cloudinary.com/dpfjg8tdc/image/upload/v1738220150/5403a5ee-d0eb-4e13-9a55-246c1daab971.png" height="100%"  width="100%" alt="Munshi Wholesale" />
+      <h3>🛒 Game Space</h3>
       <p>
-        <strong>About:</strong> A responsive single bento-style e-commerce platform featuring advanced search and filtering capabilities for electronics products.
+        <strong>About:</strong> Develop a gaming platform that allows users to play and purchase games, integrating a live meeting system for paid consultations and a real-time chat system using Messenger.
       </p>
       <ul align="left">
-        <li>📌 Admin and user-specific dashboards with role-based features.</li>
-        <li>📌 Integration of Stripe and SSLCommerz for secure payment processing.</li>
-        <li>📌 Admin control to verify users and manage products effectively.</li>
+        <li>📌 Implement authentication for users.</li>
+        <li>📌 Enable secure payment processing via card, Bkash, and database integration.</li>
+        <li>📌 Allow users to join paid live meetings.</li>
+        <li>📌 Integrate a real-time chat system.</li>
+        <li>📌 Ensure seamless team collaboration via GitHub.</li>
       </ul>
-      <p><strong>Technologies:</strong> React.js, Tailwind CSS, Firebase, Express.js, Node.js, MongoDB, JWT, Stripe</p>
-      <a href="https://github.com/dev-siyamahmed/Munshi-Wholesale-Front-End-" target="_blank">GitHub Repo</a> | 
-      <a href="https://munshiwholesale.com" target="_blank">Live Demo</a>
+      <p><strong>Technologies:</strong> React.js, Tailwind CSS, Firebase, Express.js, Node.js, MongoDB, JWT, Stripe, SSLCommerz</p>
+      <a href="https://github.com/alamineimon/gamespace-client" target="_blank">GitHub Repo</a> | 
+      <a href="https://gamespace777.netlify.app/" target="_blank">Live Demo</a>
     </td>
   </tr>
 </table>
