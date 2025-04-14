@@ -176,7 +176,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://i.ibb.co.com/xm2s7T8/book.png" height="100%"  width="100%" alt="Book Exchange Platform" />
+      <img src="https://i.ibb.co.com/xm2s7T8/book.png" height="100%"  width="100%" alt="Book Exchange Platform Image" />
       <h3>📙 Book Exchange Platform</h3>
       <p>
         <strong>About:</strong> A platform for users to exchange and sell books, featuring wishlist and cart functionality, and an integrated payment gateway.
@@ -194,7 +194,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://res.cloudinary.com/dpfjg8tdc/image/upload/v1738220150/5403a5ee-d0eb-4e13-9a55-246c1daab971.png" height="100%"  width="100%" alt="Munshi Wholesale" />
+      <img src="https://i.ibb.co.com/Y7MMXtYr/gamespace777-netlify-app-4.png" height="100%"  width="100%" alt="Game Space Image" />
       <h3>🛒 Game Space</h3>
       <p>
         <strong>About:</strong> Develop a gaming platform that allows users to play and purchase games, integrating a live meeting system for paid consultations and a real-time chat system using Messenger.
@@ -219,13 +219,12 @@
 ### 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/siyam-ahmed-a5a6b3285/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
-  <a href="https://github.com/dev-siyamahmed" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
-<a href="mailto:siyamahmed3827@gmail.com" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammad--rafi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
+  <a href="https://github.com/Ishtiak-codes" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
+<a href="mailto:mrrafi5869@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
 </a>
-  <a href="https://x.com/SiyamAhmed4086" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25" /></a>
-  <a href="https://siyam-ahmed-portfolio.vercel.app">
+  <a href="https://mohammad-ishtiak.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" height="25" alt="Portfolio" />
   </a>
 
